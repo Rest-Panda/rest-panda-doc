@@ -1,2 +1,2 @@
-# rest-panda-landing
-Landing Page for "Rest Panda" project
+# rest-panda-doc
+Landing and DOC Page for "Rest Panda" project
