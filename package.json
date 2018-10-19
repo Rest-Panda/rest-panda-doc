@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Beautiful Design System to bring innovation to the way REST APIs and client SDKs are being designed and implemented.",
   "main": "gulpfile.js",
-  "author": "Creative Tim",
+  "author": "Manuel Santos",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
